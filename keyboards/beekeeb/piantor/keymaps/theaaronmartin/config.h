@@ -1,0 +1,9 @@
+#pragma once
+
+#define TAPPING_TOGGLE 2
+#define TAPPING_TERM 200
+#define QUICK_TAP_TERM 100
+#define PERMISSIVE_HOLD
+#define LEADER_NO_TIMEOUT
+#define LEADER_TIMEOUT 200
+#define LEADER_PER_KEY_TIMING
